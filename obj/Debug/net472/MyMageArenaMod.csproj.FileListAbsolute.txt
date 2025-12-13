@@ -1,0 +1,13 @@
+c:\Users\ilan7\OneDrive\Desktop\Projects\Mage Arena Mods\SpellPlayground\bin\Debug\net472\MyMageArenaMod.dll
+c:\Users\ilan7\OneDrive\Desktop\Projects\Mage Arena Mods\SpellPlayground\bin\Debug\net472\MyMageArenaMod.pdb
+c:\Users\ilan7\OneDrive\Desktop\Projects\Mage Arena Mods\SpellPlayground\bin\Debug\net472\BepInEx.dll
+c:\Users\ilan7\OneDrive\Desktop\Projects\Mage Arena Mods\SpellPlayground\bin\Debug\net472\UnityEngine.CoreModule.dll
+c:\Users\ilan7\OneDrive\Desktop\Projects\Mage Arena Mods\SpellPlayground\bin\Debug\net472\UnityEngine.dll
+c:\Users\ilan7\OneDrive\Desktop\Projects\Mage Arena Mods\SpellPlayground\obj\Debug\net472\MyMageArenaMod.csproj.AssemblyReference.cache
+c:\Users\ilan7\OneDrive\Desktop\Projects\Mage Arena Mods\SpellPlayground\obj\Debug\net472\MyMageArenaMod.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ilan7\OneDrive\Desktop\Projects\Mage Arena Mods\SpellPlayground\obj\Debug\net472\MyMageArenaMod.AssemblyInfoInputs.cache
+c:\Users\ilan7\OneDrive\Desktop\Projects\Mage Arena Mods\SpellPlayground\obj\Debug\net472\MyMageArenaMod.AssemblyInfo.cs
+c:\Users\ilan7\OneDrive\Desktop\Projects\Mage Arena Mods\SpellPlayground\obj\Debug\net472\MyMageArenaMod.csproj.CoreCompileInputs.cache
+C:\Users\ilan7\OneDrive\Desktop\Projects\Mage Arena Mods\SpellPlayground\obj\Debug\net472\MyMageAr.2382489C.Up2Date
+c:\Users\ilan7\OneDrive\Desktop\Projects\Mage Arena Mods\SpellPlayground\obj\Debug\net472\MyMageArenaMod.dll
+c:\Users\ilan7\OneDrive\Desktop\Projects\Mage Arena Mods\SpellPlayground\obj\Debug\net472\MyMageArenaMod.pdb

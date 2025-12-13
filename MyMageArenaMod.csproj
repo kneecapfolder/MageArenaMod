@@ -1,0 +1,39 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net48</TargetFramework>
+    <AssemblyName>MyMageArenaMod</AssemblyName>
+    <RootNamespace>MyMageArenaMod</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="BepInEx">
+      <HintPath>libs/BepInEx.dll</HintPath>
+    </Reference>
+
+    <Reference Include="UnityEngine.CoreModule">
+      <HintPath>libs/UnityEngine.CoreModule.dll</HintPath>
+    </Reference>
+
+    <Reference Include="UnityEngine">
+      <HintPath>libs/UnityEngine.dll</HintPath>
+    </Reference>
+
+    <Reference Include="BlackMagicAPI">
+      <HintPath>libs/BlackMagicAPI.dll</HintPath>
+    </Reference>
+    
+    <Reference Include="Assembly-CSharp">
+      <HintPath>libs/Assembly-CSharp.dll</HintPath>
+    </Reference>
+    
+    <Reference Include="UnityEngine.PhysicsModule">
+      <HintPath>libs/UnityEngine.PhysicsModule.dll</HintPath>
+    </Reference>
+
+    <Reference Include="MageAPI">
+      <HintPath>libs/MageAPI.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

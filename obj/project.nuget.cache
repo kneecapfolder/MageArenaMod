@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "zeo0kay0FXs=",
+  "success": true,
+  "projectFilePath": "c:\\Users\\ilan7\\OneDrive\\Desktop\\Projects\\Mage Arena Mods\\SpellPlayground\\MyMageArenaMod.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ilan7\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\ilan7\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net48\\1.0.3\\microsoft.netframework.referenceassemblies.net48.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
