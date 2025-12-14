@@ -2,8 +2,8 @@
 
   <PropertyGroup>
     <TargetFramework>net48</TargetFramework>
-    <AssemblyName>MyMageArenaMod</AssemblyName>
-    <RootNamespace>MyMageArenaMod</RootNamespace>
+    <AssemblyName>LogSpellMod</AssemblyName>
+    <RootNamespace>LogSpellMod</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
@@ -34,6 +34,11 @@
     <Reference Include="MageAPI">
       <HintPath>libs/MageAPI.dll</HintPath>
     </Reference>
+  </ItemGroup>
+
+  
+  <ItemGroup>
+    <EmbeddedResource Include="Resources/LogSpell_Main.png" />
   </ItemGroup>
 
 </Project>

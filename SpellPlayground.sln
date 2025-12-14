@@ -2,7 +2,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.2.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyMageArenaMod", "MyMageArenaMod.csproj", "{A663807F-3BBF-CF69-3FF4-C82A53879727}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogSpellMod", "LogSpellMod.csproj", "{FEABC459-24D3-1D98-FAB7-22A71B3CB24E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -10,15 +10,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{A663807F-3BBF-CF69-3FF4-C82A53879727}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A663807F-3BBF-CF69-3FF4-C82A53879727}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A663807F-3BBF-CF69-3FF4-C82A53879727}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A663807F-3BBF-CF69-3FF4-C82A53879727}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEABC459-24D3-1D98-FAB7-22A71B3CB24E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEABC459-24D3-1D98-FAB7-22A71B3CB24E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEABC459-24D3-1D98-FAB7-22A71B3CB24E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEABC459-24D3-1D98-FAB7-22A71B3CB24E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {06ED7D9C-43DF-46C1-BB58-AB4626C6B470}
+		SolutionGuid = {4BC8453E-236A-4678-97DA-4D43A706359D}
 	EndGlobalSection
 EndGlobal

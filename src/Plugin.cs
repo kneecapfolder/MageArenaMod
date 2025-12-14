@@ -6,14 +6,14 @@ using System.Reflection;
 using BlackMagicAPI.Managers;
 
 
-[BepInPlugin("com.yourname.mymod", "FireBlast Test", "1.0.0")]
+[BepInPlugin("com.yourname.mymod", "Log Spell Test", "1.0.0")]
 public class Plugin : BaseUnityPlugin
 {
     void Awake()
     {
         Logger.LogInfo("FireBlast Mod Loaded!");
 
-        BlackMagicManager.RegisterSpell(this, typeof(FireBlastData), typeof(FireBlastLogic));
+        BlackMagicManager.RegisterSpell(this, typeof(LogSpellData), typeof(LogSpellLogic));
 
         // BlackMagicManager.PlayerIni
 

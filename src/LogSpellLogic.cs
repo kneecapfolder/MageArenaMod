@@ -2,9 +2,9 @@ using BlackMagicAPI.Modules.Spells;
 using BepInEx.Logging;
 using UnityEngine;
 
-public class FireBlastLogic : SpellLogic
+public class LogSpellLogic : SpellLogic
 {
-    private static ManualLogSource Log = BepInEx.Logging.Logger.CreateLogSource("FireBlast");
+    private static ManualLogSource Logger = BepInEx.Logging.Logger.CreateLogSource("FireBlast");
 
     public override void CastSpell(
         GameObject playerObj,
@@ -32,6 +32,6 @@ public class FireBlastLogic : SpellLogic
 
         Destroy(ball, 3f);
         
-        Log.LogInfo("get blasted at " + spawnPoint.ToString());
+        Logger.LogInfo("get blasted at " + spawnPoint.ToString());
     }
 }

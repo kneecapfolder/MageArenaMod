@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ilan7\\OneDrive\\Desktop\\Projects\\Mage Arena Mods\\SpellPlayground\\MyMageArenaMod.csproj": {}
+    "C:\\Users\\ilan7\\OneDrive\\Desktop\\Projects\\Mage Arena Mods\\SpellPlayground\\LogSpellMod.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ilan7\\OneDrive\\Desktop\\Projects\\Mage Arena Mods\\SpellPlayground\\MyMageArenaMod.csproj": {
+    "C:\\Users\\ilan7\\OneDrive\\Desktop\\Projects\\Mage Arena Mods\\SpellPlayground\\LogSpellMod.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ilan7\\OneDrive\\Desktop\\Projects\\Mage Arena Mods\\SpellPlayground\\MyMageArenaMod.csproj",
-        "projectName": "MyMageArenaMod",
-        "projectPath": "C:\\Users\\ilan7\\OneDrive\\Desktop\\Projects\\Mage Arena Mods\\SpellPlayground\\MyMageArenaMod.csproj",
+        "projectUniqueName": "C:\\Users\\ilan7\\OneDrive\\Desktop\\Projects\\Mage Arena Mods\\SpellPlayground\\LogSpellMod.csproj",
+        "projectName": "LogSpellMod",
+        "projectPath": "C:\\Users\\ilan7\\OneDrive\\Desktop\\Projects\\Mage Arena Mods\\SpellPlayground\\LogSpellMod.csproj",
         "packagesPath": "C:\\Users\\ilan7\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\ilan7\\OneDrive\\Desktop\\Projects\\Mage Arena Mods\\SpellPlayground\\obj\\",
         "projectStyle": "PackageReference",
