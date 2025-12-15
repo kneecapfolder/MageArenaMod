@@ -34,11 +34,15 @@
     <Reference Include="MageAPI">
       <HintPath>libs/MageAPI.dll</HintPath>
     </Reference>
+    
+    <Reference Include="UnityEngine.ImageConversionModule">
+      <HintPath>libs/UnityEngine.ImageConversionModule.dll</HintPath>
+    </Reference>
   </ItemGroup>
+</Project>
 
-  
+<!--   
   <ItemGroup>
     <EmbeddedResource Include="Resources/LogSpell_Main.png" />
-  </ItemGroup>
+  </ItemGroup> -->
 
-</Project>

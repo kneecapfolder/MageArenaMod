@@ -30,4 +30,23 @@ public class Plugin : BaseUnityPlugin
         // Logger.LogInfo(log);
     }
 
+    
+    /* public static Texture2D LoadTexture(string relativePath)
+    {
+        string fullPath = Path.Combine(Paths.PluginPath, relativePath);
+
+        if (!File.Exists(fullPath))
+        {
+            Debug.LogError("Texture not found: " + fullPath);
+            return null;
+        }
+
+        byte[] data = File.ReadAllBytes(fullPath);
+        Texture2D tex = new Texture2D(2, 2, TextureFormat.RGBA32, false);
+        tex.LoadImage(data);
+        tex.filterMode = FilterMode.Bilinear;
+        tex.wrapMode = TextureWrapMode.Clamp;
+
+        return tex;
+    } */
 }

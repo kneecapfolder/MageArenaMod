@@ -16,3 +16,4 @@ C:\Users\ilan7\OneDrive\Desktop\Projects\Mage Arena Mods\SpellPlayground\obj\Deb
 C:\Users\ilan7\OneDrive\Desktop\Projects\Mage Arena Mods\SpellPlayground\obj\Debug\net48\LogSpell.DBB32D6B.Up2Date
 C:\Users\ilan7\OneDrive\Desktop\Projects\Mage Arena Mods\SpellPlayground\obj\Debug\net48\LogSpellMod.dll
 C:\Users\ilan7\OneDrive\Desktop\Projects\Mage Arena Mods\SpellPlayground\obj\Debug\net48\LogSpellMod.pdb
+c:\Users\ilan7\OneDrive\Desktop\Projects\Mage Arena Mods\SpellPlayground\bin\Debug\net48\UnityEngine.ImageConversionModule.dll

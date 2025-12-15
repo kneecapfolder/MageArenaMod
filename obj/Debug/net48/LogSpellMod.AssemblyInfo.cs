@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LogSpellMod")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1033c805db5b873caced85045f6bb8f590e8831d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6a121c077f09887d77b8693180262b9caf6fd5d5")]
 [assembly: System.Reflection.AssemblyProductAttribute("LogSpellMod")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LogSpellMod")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
