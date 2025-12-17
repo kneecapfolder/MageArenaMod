@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aEQOyR/zVMs=",
+  "dgSpecHash": "iHOfIxw+fZk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ilan7\\OneDrive\\Desktop\\Projects\\Mage Arena Mods\\SpellPlayground\\LogSpellMod.csproj",
+  "projectFilePath": "c:\\Users\\ilan7\\OneDrive\\Desktop\\Projects\\Mage Arena Mods\\SpellPlayground\\LogSpellMod.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ilan7\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
     "C:\\Users\\ilan7\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net48\\1.0.3\\microsoft.netframework.referenceassemblies.net48.1.0.3.nupkg.sha512"

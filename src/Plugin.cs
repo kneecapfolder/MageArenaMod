@@ -11,7 +11,9 @@ public class Plugin : BaseUnityPlugin
 {
     void Awake()
     {
-        Logger.LogInfo("FireBlast Mod Loaded!");
+        LogAssets.Load();
+
+        Logger.LogInfo("LogSpell Mod Loaded!");
 
         BlackMagicManager.RegisterSpell(this, typeof(LogSpellData), typeof(LogSpellLogic));
 
